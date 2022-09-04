@@ -1,2 +1,4 @@
 # Hackthon_Itau_UFPR
-Repositório destinado aos códigos realizados na Hackthon da UFPR em parceria com o Banco Itaú onde o objetivo era prever a produção de soja nos anos 2018,2019 e 2020 utlizando técnicas de transformação dos dados e machine learning.
+Repositório com os códigos realizados na Hackthon da UFPR em parceria com o Banco Itaú.
+
+O desafio trata-se de prever a produção de soja nos anos de 2018,2019 e 2020 utlizando técnicas de manipulação de dados e machine learning.
